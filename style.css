@@ -1,0 +1,182 @@
+body {
+  color: #40514e;
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  text-align: center;
+}
+.top-container {
+  background-color: #dfd4e6;
+  padding: 120px;
+}
+h1 {
+  color: #4a0e5c;
+  font-family: "Sacramento", cursive;
+  font-size: 7rem;
+  margin: 0 auto 0 auto;
+}
+
+h2 {
+  color: #4a0e5c;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3 {
+  color: #7c4789;
+  font-family: "Poppins", sans-serif;
+}
+.intro-msg {
+  color: #4a0e5c;
+  font-family: "Poppins", sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 70px;
+  margin-top: 50px;
+}
+.intro {
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  color: #40514e;
+  line-height: 2;
+  font-weight: 700;
+  width: 40%;
+  margin: auto;
+  padding-bottom: 35px;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 4%;
+}
+.left-circular-image {
+  border-radius: 50%;
+  background-color: #e4f9f9;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.right-circular-image {
+  border-radius: 50%;
+  background-color: #e4f9f9;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skill-row {
+  width: 50%;
+  margin: 10px auto 120px auto;
+}
+.skills {
+  margin-top: 80px;
+}
+p {
+  line-height: 2;
+  font-weight: 700;
+}
+.btn {
+  background-color: #4a0e5c;
+  border-radius: 12px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #7c4789;
+}
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.7rem;
+  padding: 20px 0px;
+}
+.bottom-container {
+  background-color: #4a0e5c;
+  padding: 50px 0 20px;
+}
+.bottom-container a {
+  color: #7c4789;
+}
+a {
+  text-decoration: none;
+}
+.footer-link {
+  padding: 10px;
+}
+.footer-link:hover {
+  color: white;
+}
+.contact-me {
+  margin: 70px 0px;
+}
+
+.nav {
+  background-color: #dfd4e6;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+}
+a {
+  padding-right: 40px;
+}
+a:hover {
+  color: #7c4789;
+}
+.top-container-edu {
+  background-color: #dfd4e6;
+  padding: 50px;
+}
+.edu-heading {
+  color: #4a0e5c;
+  font-family: "Poppins", sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+.udemy a {
+  color: #7c4789;
+  font-family: "Poppins", sans-serif;
+}
+.edu-description-li {
+  padding: 10px;
+}
+li {
+  list-style-type: none;
+}
+.top-container-work {
+  background-color: #dfd4e6;
+  padding: 50px;
+}
+.work-heading {
+  color: #4a0e5c;
+  font-family: "Poppins", sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+.website-link {
+  line-height: 3;
+}
+.top-container-skills {
+  background-color: #dfd4e6;
+  padding: 50px;
+}
+.skills-description {
+  margin: 0 auto 30px;
+  width: 50%;
+}
+table {
+  font-family: "Poppins", sans-serif;
+  margin: auto;
+}
+
+td {
+  padding: 10px;
+  text-align: center;
+}
